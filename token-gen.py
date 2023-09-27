@@ -1,4 +1,4 @@
-print(".gg/kVV2mCtsZb << pobierz token gen / download token gen")
+print(".gg/----------- << pobierz token gen / download token gen")
 import os
 os.system("title mk market - server invite: kVV2mCtsZb")
 import tkinter
