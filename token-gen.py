@@ -1,6 +1,6 @@
 print(".gg/----------- << pobierz token gen / download token gen")
 import os
-os.system("title mk market - server invite: kVV2mCtsZb")
+os.system("title mk market - server invite: ------------------")
 import tkinter
 from tkinter import ttk
 import random
